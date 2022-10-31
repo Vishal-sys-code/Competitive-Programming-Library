@@ -8,7 +8,7 @@ set gfn=Fixedsys:h10
 set ts=4
 set sw=4
 set si
-cd C:\Users\tmwil\Documents\vimws
+cd C:\Users\tmleyncodes\Documents\vimws
 
 inoremap { {}<Left>
 inoremap {<CR> {<CR>}<Esc>O
